@@ -1,0 +1,89 @@
+{
+    "training_sessions": [
+        {
+            "timestamp": "2025-03-05T00:51:33.864631",
+            "documents_processed": 135,
+            "total_documents": 135,
+            "avg_loss": 0.46010221242904664,
+            "min_loss": 0.26346319913864136,
+            "top_features": [
+                "io",
+                "sono",
+                "un"
+            ]
+        },
+        {
+            "timestamp": "2025-03-05T00:51:54.547040",
+            "documents_processed": 135,
+            "total_documents": 270,
+            "avg_loss": 0.36808836460113525,
+            "min_loss": 0.25923117995262146,
+            "top_features": [
+                "sono",
+                "io",
+                "un"
+            ]
+        },
+        {
+            "timestamp": "2025-03-05T00:52:05.076535",
+            "documents_processed": 135,
+            "total_documents": 405,
+            "avg_loss": 0.4999310314655304,
+            "min_loss": 0.272337406873703,
+            "top_features": [
+                "io",
+                "sono",
+                "un"
+            ]
+        },
+        {
+            "timestamp": "2025-03-05T00:52:59.069483",
+            "documents_processed": 135,
+            "total_documents": 540,
+            "avg_loss": 0.41943363547325135,
+            "min_loss": 0.2655174136161804,
+            "top_features": [
+                "io",
+                "sono",
+                "un"
+            ]
+        },
+        {
+            "timestamp": "2025-03-05T00:56:18.989092",
+            "documents_processed": 239,
+            "total_documents": 779,
+            "avg_loss": 0.4366405487060547,
+            "min_loss": 0.28569266200065613,
+            "top_features": [
+                "sono",
+                "io",
+                "un"
+            ]
+        },
+        {
+            "timestamp": "2025-03-05T00:56:25.142440",
+            "documents_processed": 239,
+            "total_documents": 1018,
+            "avg_loss": 0.37373340129852295,
+            "min_loss": 0.24154254794120789,
+            "top_features": [
+                "sono",
+                "io",
+                "un"
+            ]
+        },
+        {
+            "timestamp": "2025-03-05T00:56:32.947583",
+            "documents_processed": 239,
+            "total_documents": 1257,
+            "avg_loss": 0.40217494070529936,
+            "min_loss": 0.20855511724948883,
+            "top_features": [
+                "io",
+                "sono",
+                "un"
+            ]
+        }
+    ],
+    "total_documents": 1257
+}

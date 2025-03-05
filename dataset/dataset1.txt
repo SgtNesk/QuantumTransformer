@@ -1,0 +1,104 @@
+Un nome è la parola che identifica una persona, un animale o una cosa.
+I nomi possono essere propri o comuni.
+I nomi propri iniziano sempre con la lettera maiuscola.
+Gli articoli determinativi sono "il", "lo", "la", "i", "gli", "le".
+Gli articoli indeterminativi sono "un", "uno", "una".
+Gli aggettivi qualificativi descrivono una caratteristica del nome.
+Gli aggettivi concordano in genere e numero con il nome.
+I pronomi personali sostituiscono un nome per evitare ripetizioni.
+I verbi indicano un'azione, uno stato o un avvenimento.
+I verbi si coniugano in base al tempo, alla persona e al numero.
+I tempi verbali principali sono presente, passato e futuro.
+Il modo indicativo esprime una realtà certa.
+Il modo congiuntivo esprime dubbio, possibilità o desiderio.
+Il modo condizionale indica un'azione subordinata a una condizione.
+Il modo imperativo esprime un ordine o un invito.
+Il soggetto è chi compie l'azione nella frase.
+Il predicato è la parte della frase che indica l'azione o lo stato del soggetto.
+Il complemento oggetto risponde alla domanda "chi?" o "che cosa?".
+Il complemento di luogo indica dove avviene un'azione.
+Il complemento di tempo indica quando avviene un'azione.
+Il complemento di causa indica il motivo di un'azione.
+Il complemento di mezzo indica lo strumento usato per compiere un'azione.
+Le preposizioni collegano le parole all'interno della frase.
+Le congiunzioni uniscono parole, frasi o proposizioni.
+Le interiezioni esprimono emozioni o stati d'animo.
+Le frasi principali sono indipendenti e complete.
+Le frasi subordinate dipendono da una frase principale.
+Le frasi subordinate possono essere relative, causali, temporali, finali.
+Una frase interrogativa termina con un punto di domanda.
+Una frase esclamativa esprime emozione e termina con un punto esclamativo.
+Una frase negativa contiene "non" o un altro elemento di negazione.
+Una frase affermativa dichiara un fatto o un'opinione.
+Le proposizioni coordinate sono unite da congiunzioni come "e", "ma", "o".
+Le proposizioni subordinate possono introdurre condizioni, cause, conseguenze.
+I pronomi relativi "che", "cui", "il quale" collegano due proposizioni.
+Gli avverbi modificano il significato di un verbo, un aggettivo o un altro avverbio.
+Gli avverbi di modo indicano come si svolge un'azione.
+Gli avverbi di tempo indicano quando si svolge un'azione.
+Gli avverbi di luogo indicano dove si svolge un'azione.
+Gli avverbi di quantità indicano il grado di un'azione o di una qualità.
+Gli avverbi di negazione esprimono una negazione, come "non", "mai".
+La virgola separa elementi all'interno di una frase.
+Il punto chiude una frase dichiarativa.
+Il punto interrogativo si usa per le domande dirette.
+Il punto esclamativo si usa per le frasi espressive di emozioni.
+I due punti introducono una spiegazione o un elenco.
+Il punto e virgola separa frasi strettamente collegate ma autonome.
+Le virgolette si usano per citazioni e discorsi diretti.
+Le parentesi racchiudono informazioni aggiuntive.
+Il trattino si usa per unire parole o per indicare dialoghi.
+Le congiunzioni copulative collegano due elementi con valore positivo.
+Le congiunzioni avversative introducono un'opposizione tra le proposizioni.
+Le congiunzioni causali spiegano il motivo di un'azione.
+Le congiunzioni finali indicano lo scopo di un'azione.
+Le congiunzioni temporali indicano il tempo in cui avviene un'azione.
+Le congiunzioni consecutive indicano una conseguenza.
+Le congiunzioni condizionali indicano una condizione necessaria.
+Le congiunzioni concessive introducono un'opposizione concessiva.
+Le congiunzioni dichiarative introducono un'affermazione o una spiegazione.
+Le congiunzioni comparative confrontano due elementi.
+Le congiunzioni modali introducono il modo in cui si svolge un'azione.
+I pronomi dimostrativi indicano la posizione di qualcosa rispetto a chi parla.
+I pronomi indefiniti indicano una quantità non precisata.
+I pronomi interrogativi introducono una domanda.
+I pronomi esclamativi esprimono sorpresa o enfasi.
+I pronomi possessivi indicano appartenenza.
+I pronomi personali possono essere soggetto o complemento.
+I pronomi riflessivi si riferiscono al soggetto della frase.
+I pronomi reciproci indicano un'azione compiuta tra due o più persone.
+Le congiunzioni subordinanti introducono una frase dipendente.
+I verbi riflessivi indicano un'azione che il soggetto compie su se stesso.
+I verbi transitivi hanno un complemento oggetto.
+I verbi intransitivi non hanno un complemento oggetto.
+I verbi impersonali non hanno un soggetto determinato.
+I verbi servili accompagnano un altro verbo per modificarne il significato.
+I verbi fraseologici sono costruzioni di più parole con un solo significato verbale.
+I verbi ausiliari "essere" e "avere" servono per formare i tempi composti.
+I tempi composti sono formati con un ausiliare e il participio passato.
+I participi passati regolari terminano in "-ato", "-uto", "-ito".
+Gli aggettivi dimostrativi indicano la posizione di un elemento rispetto a chi parla.
+Gli aggettivi indefiniti indicano una quantità imprecisa.
+Gli aggettivi numerali indicano un numero esatto o un ordine.
+Gli aggettivi possessivi indicano appartenenza.
+Gli aggettivi interrogativi introducono una domanda.
+Gli aggettivi esclamativi esprimono sorpresa o enfasi.
+Gli aggettivi comparativi confrontano due elementi.
+Gli aggettivi superlativi indicano il massimo grado di una qualità.
+Gli aggettivi alterati modificano il significato di base di un aggettivo.
+Le frasi ipotetiche esprimono una condizione e la sua conseguenza.
+Le frasi relative forniscono informazioni aggiuntive su un nome.
+Le frasi concessive esprimono un'opposizione concessiva.
+Le frasi consecutive indicano una conseguenza.
+Le frasi causali indicano la causa di un'azione.
+Le frasi finali indicano lo scopo di un'azione.
+I sinonimi sono parole con significati simili.
+I contrari sono parole con significati opposti.
+Gli omonimi sono parole che si scrivono allo stesso modo ma hanno significati diversi.
+I paronimi sono parole simili nella forma ma diverse nel significato.
+Gli omografi sono parole che si scrivono allo stesso modo ma si pronunciano in modo diverso.
+Gli omofoni sono parole che si pronunciano allo stesso modo ma si scrivono in modo diverso.
+Le metafore sono figure retoriche che associano due elementi con significati diversi.
+Le similitudini confrontano due elementi usando "come" o "simile a".
+Le analogie mettono in relazione concetti diversi con un rapporto logico.
+Le iperboli esagerano un concetto per enfatizzarlo.
